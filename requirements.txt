@@ -1,0 +1,13 @@
+# Third-party Python packages required by the analysis scripts
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+tqdm
+anndata
+scanpy
+python-igraph
+leidenalg
